@@ -12,7 +12,6 @@
     "android:reverse": "adb reverse tcp:8081 tcp:8081"
   },
   "dependencies": {
-    "base-64": "^0.1.0",
     "buffer": "^5.6.0",
     "music-tempo": "^1.0.3",
     "react": "16.11.0",
